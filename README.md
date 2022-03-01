@@ -1,5 +1,5 @@
 ## `Deploy`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeeoneofc/subrek-ngab
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Riswangans/subrek-ngab
 
 # ```SELF-BOT```
 <p align="center">
